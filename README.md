@@ -1,2 +1,2 @@
 # kalkulator-web
-Kalkulator Web
+Kalkulator Web : https://kalkulator-web.netlify.app/
